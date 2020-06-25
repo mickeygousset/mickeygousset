@@ -1,4 +1,4 @@
-![DevOps Is Magic](/images/devopsismagic.gif)
+![DevOps Is Magic](/mickeygousset/mickeygousset/blob/master/images/DonovanDevOps.gif)
 
 ### Hi there 👋
 
@@ -6,7 +6,7 @@ I'm [Mickey Gousset](http://mickeygousset.com/), a DevOps Architect on the GitHu
 
 And no, DevOps is not actually magic. Here is a great definition (Thanks [Donovan Brown!](https://twitter.com/DonovanBrown)):
 
-![Donovan Brown's DevOps Definition](/mickeygousset/mickeygousset/images/DonovanDevOps.gif)
+![Donovan Brown's DevOps Definition](/mickeygousset/mickeygousset/blob/master/images/DonovanDevOps.gif)
 
 For my day job, and as a community member, I go around and help people get more "devopsy".  I'm always happy to answer questions or try and point you in the right direction, so if you have any DevOps questions for me, hit up my contact information below and reach out. Don't be a stranger!
 
