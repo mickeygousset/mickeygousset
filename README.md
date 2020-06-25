@@ -1,4 +1,4 @@
-![DevOps Is Magic](/mickeygousset/mickeygousset/blob/master/images/DonovanDevOps.gif)
+![DevOps Is Magic](/mickeygousset/mickeygousset/blob/master/images/devopsismagic.gif)
 
 ### Hi there 👋
 
