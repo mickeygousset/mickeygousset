@@ -31,6 +31,11 @@ I also am a content creator, creating content on my [blog](https://mickeygousset
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Trigger a Jenkins Pipeline using GitHub Actions](http://mickeygousset.com/blog/trigger-jenkins-pipeline-with-github-actions/)
+- [Advent of Code - Day 1](http://mickeygousset.com/blog/advent-of-code-day01/)
+- [The Next Evolution For Me - GitHub](http://mickeygousset.com/blog/the-next-evolution-for-me-github/)
+- [My Journey Into GitHub Actions - #2 - The Workflows Folder](http://mickeygousset.com/blog/my-journey-into-github-actions-post-2-workflows-folder/)
+- [My Journey Into GitHub Actions - #3 - What’s The Minimum Amount Of Stuff Needed For A Workflow File](http://mickeygousset.com/blog/my-journey-into-github-actions-post-3-the-minimum-needed-for-a-workflow/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://mickeygousset.com)
