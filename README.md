@@ -16,6 +16,11 @@ I also am a content creator, creating content on my [blog](https://mickeygousset
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Twitch Stream - Slack Integration with GitHub](https://www.youtube.com/watch?v=2XZQyecDlqg)
+- [Twitch Stream - GitHub Actions and IoT using LIFX Light Bulb](https://www.youtube.com/watch?v=vV8ckk6Jo9k)
+- [GitHub Actions - Upload Artifacts](https://www.youtube.com/watch?v=vlySg5UPIm4)
+- [Twitch Stream - GitHub Actions, GH CLI, Web-based Editor - Real World Example](https://www.youtube.com/watch?v=H0-PZT3HcJA)
+- [Twitch Stream - GitHub Actions, GH CLI, Web-based Editor](https://www.youtube.com/watch?v=AilfwpbS0yw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
