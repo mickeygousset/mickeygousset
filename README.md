@@ -1,26 +1,31 @@
-![DevOps Is Magic](/images/devopsismagic.gif)
+### Hi y'all <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mickey Gousset!
 
-### Hi there 👋
+---
 
-I'm [Mickey Gousset](http://mickeygousset.com/), a DevOps Architect on the GitHub DevOps FastTrack team.  I'm also a geek, father, speaker, writer, and singer.
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC33hrmkTMUkztwUJ8pasDDQ?label=YouTube%20Subscribers&style=social) 
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC33hrmkTMUkztwUJ8pasDDQ?label=YouTube%20Views&style=social) 
+![Twitter Follow](https://img.shields.io/twitter/follow/mickey_gousset?style=social) 
+![Twitch Status](https://img.shields.io/twitch/status/mickeygousset?style=social)
 
-And no, DevOps is not actually magic. Here is a great definition (Thanks [Donovan Brown!](https://twitter.com/DonovanBrown)):
+I'm a DevOps Architect on the GitHub FastTrack team.  That means my day job is going out and helping people get more "devopsy", usually with a focus on GitHub.
 
-![Donovan Brown's DevOps Definition](/images/DonovanDevOps.gif)
+I also am a content creator, creating content on my [blog](https://mickeygousset.com/), [Twitch](https://www.twitch.tv/mickeygousset), and [YouTube](https://youtube.com/mickeygousset).   Most of my content revolves around DevOps, GitHub, and development, though I am starting to branch into personal development and management topics.
 
-For my day job, and as a community member, I go around and help people get more "devopsy".  I'm always happy to answer questions or try and point you in the right direction, so if you have any DevOps questions for me, hit up my contact information below and reach out. Don't be a stranger!
+---
 
-*****
-- 🔭 I’m currently working on:
-  - [GitHub Actions workflow for expressjs/express](https://github.com/expressjs/express/pull/4251)
-*****
-- ⚡ Fun facts: 
-  - [I record audio books for Audible.com](https://www.audible.com/search?keywords=Mickey+Gousset)
-  - [I have a YouTube channel devoted to DevOps](https://youtube.com/mickeygousset)
-*****
-- 📫 How to reach me:
-  - **Twitter** - [@mickey_gousset](https://twitter.com/mickey_gousset)
-  - **Email** - mickeygousset@github.com
+📺 Latest YouTube Videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+
+▶ [...more YouTube videos](https://www.youtube.com/channel/UC33hrmkTMUkztwUJ8pasDDQ?sub_confirmation=1)
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Mickey's GitHub stats](https://github-readme-stats.vercel.app/api?username=mickeygousset&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mickeygousset/mickeygousset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
