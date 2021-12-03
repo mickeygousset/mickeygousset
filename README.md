@@ -28,6 +28,15 @@ I also am a content creator, creating content on my [blog](https://mickeygousset
 
 ---
 
+📘 Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://mickeygousset.com)
+
+---
+
 ## &#x1f4c8; My GitHub Stats
 
 [![Mickey's GitHub stats](https://github-readme-stats.vercel.app/api?username=mickeygousset&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
