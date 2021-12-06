@@ -11,6 +11,8 @@ I'm a DevOps Architect on the GitHub FastTrack team.  That means my day job is g
 
 I also am a content creator, creating content on my [blog](https://mickeygousset.com/), [Twitch](https://www.twitch.tv/mickeygousset), and [YouTube](https://youtube.com/mickeygousset).   Most of my content revolves around DevOps, GitHub, and development, though I am starting to branch into personal development and management topics.
 
+Check out my organization, https://github.com/mickeygoussetorg, to see all my demo repos and other fun stuff I'm working on.  After all, everyone needs a [GitHub Action to tell a Dad Joke](https://github.com/mickeygoussetorg/get-a-dad-joke), right?
+
 ---
 
 📺 Latest YouTube Videos
