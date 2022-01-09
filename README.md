@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [GitHub - Personal Access Tokens](https://www.youtube.com/watch?v=YDfuU5cHw_s)
 - [GitHub Actions - Skipping workflows on a pull request](https://www.youtube.com/watch?v=iQcNe98_998)
 - [GitHub Actions - Skipping workflows on a push to the main branch](https://www.youtube.com/watch?v=etzh-QlvpJY)
 - [Twitch Stream - Slack Integration with GitHub](https://www.youtube.com/watch?v=2XZQyecDlqg)
 - [Twitch Stream - GitHub Actions and IoT using LIFX Light Bulb](https://www.youtube.com/watch?v=vV8ckk6Jo9k)
-- [GitHub Actions - Upload Artifacts](https://www.youtube.com/watch?v=vlySg5UPIm4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
