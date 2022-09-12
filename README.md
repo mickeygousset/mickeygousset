@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Secure Your Software Supply Chain - An Introduction](https://www.youtube.com/watch?v=3HiYXNz02cA)
 - [GitHub Actions - Calling Reusable Workflows](https://www.youtube.com/watch?v=2dxmvDL1gP8)
 - [GitHub Actions - Reusable workflows - Matrix Strategies](https://www.youtube.com/watch?v=MBpyouQtY_M)
 - [GitHub Actions - Self-hosted runners - Uninstalling a runner](https://www.youtube.com/watch?v=Swex2xqWE1A)
 - [GitHub Actions - Self-hosted runners - Deep Dive](https://www.youtube.com/watch?v=GHc-IvPRnMI)
-- [GitHub Actions - Self-hosted runners - Labels](https://www.youtube.com/watch?v=gnQUGoUHH_8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
