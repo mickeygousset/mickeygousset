@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Security - Dependency Graph - Let&#39;s Explore](https://www.youtube.com/watch?v=q3xVUbhWLL4)
 - [Security - Dependency Graph - Introduction and Enablement](https://www.youtube.com/watch?v=UTZR8v4q1fg)
 - [Secure Your Software Supply Chain - An Introduction](https://www.youtube.com/watch?v=3HiYXNz02cA)
 - [GitHub Actions - Calling Reusable Workflows](https://www.youtube.com/watch?v=2dxmvDL1gP8)
 - [GitHub Actions - Reusable workflows - Matrix Strategies](https://www.youtube.com/watch?v=MBpyouQtY_M)
-- [GitHub Actions - Self-hosted runners - Uninstalling a runner](https://www.youtube.com/watch?v=Swex2xqWE1A)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
