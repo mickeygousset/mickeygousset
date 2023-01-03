@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Imposter Syndrome is setting in](https://www.youtube.com/watch?v=SCPoivJM1aE)
+- [Does Todd Like Devops?](https://www.youtube.com/watch?v=VZiPY_j3n04)
 - [What Ollie thinks of GitHub and DevOps](https://www.youtube.com/watch?v=q8WPq_sLu4Y)
 - [Do you like GitHub and DevOps? Come check out my channel](https://www.youtube.com/watch?v=nFREyTvqsfQ)
 - [The new &quot;waiting&quot; state for GitHub Actions job status](https://www.youtube.com/watch?v=1c6IQhsB0Zg)
-- [GitHub Fine-grained Personal Access Tokens - An Introduction](https://www.youtube.com/watch?v=sbKyTis2hnI)
-- [Security - Dependency Graph - Let&#39;s Explore](https://www.youtube.com/watch?v=q3xVUbhWLL4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
