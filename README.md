@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Working on a new video but Ollie is not impressed](https://www.youtube.com/watch?v=HoEjIGHd3NY)
+- [Required Workflows with GitHub Actions](https://www.youtube.com/watch?v=izoc4Msvkaw)
 - [Updates to GitHub Actions Runner Groups](https://www.youtube.com/watch?v=sXDBEofeMcY)
 - [Imposter Syndrome is setting in](https://www.youtube.com/watch?v=SCPoivJM1aE)
 - [Does Todd Like Devops?](https://www.youtube.com/watch?v=VZiPY_j3n04)
-- [What Ollie thinks of GitHub and DevOps](https://www.youtube.com/watch?v=q8WPq_sLu4Y)
-- [Do you like GitHub and DevOps? Come check out my channel](https://www.youtube.com/watch?v=nFREyTvqsfQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
