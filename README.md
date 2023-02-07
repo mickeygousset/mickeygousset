@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [GitHub Actions - Deprecating the save-state and set-output commands](https://www.youtube.com/watch?v=HyktX7eYqrU)
 - [GitHub Actions - Configuration Variables](https://www.youtube.com/watch?v=cPMJpKNqZb8)
 - [New video on cache management with GitHub Actions is uploaded. See what Todd thinks about it.](https://www.youtube.com/watch?v=VsdoeykGiIQ)
 - [Cache Management with GitHub actions](https://www.youtube.com/watch?v=7PVUjRXUY0o)
 - [New content is coming this week! Thank you to all my subscribers for their support!](https://www.youtube.com/watch?v=NR10jscZOgI)
-- [Working on a new video but Ollie is not impressed](https://www.youtube.com/watch?v=HoEjIGHd3NY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
