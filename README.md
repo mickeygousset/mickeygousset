@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Disable repository level self-hosted runners](https://www.youtube.com/watch?v=U9P7CQ0WMQk)
 - [Do you know all the &quot;stuff&quot; your code uses?](https://www.youtube.com/watch?v=fuwHL22Wa98)
 - [Creating issues in GitHub Projects](https://www.youtube.com/watch?v=-xM2MT0Nv8k)
 - [Adding existing issues to GitHub Projects](https://www.youtube.com/watch?v=Wym76EjWKZw)
 - [Getting started with GitHub Projects](https://www.youtube.com/watch?v=lzpcyYIbHqE)
-- [GitHub Actions - Deprecating the save-state and set-output commands](https://www.youtube.com/watch?v=HyktX7eYqrU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
