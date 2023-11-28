@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Day 1 in the #GitHub #Migration Series is here! Come see what Todd, the big cat, thinks… #devops](https://www.youtube.com/watch?v=psuTL5rEG1g)
+- [GitHub Migration Series - Day 1 - Overview](https://www.youtube.com/watch?v=FkZX3JxVyxs)
 - [New video series: Migrating to GitHub, is coming soon!  #coding #tech #github #migration #devops](https://www.youtube.com/watch?v=WLi84lbujoY)
 - [Twitch - This one is mostly about GitHub Advanced Security](https://www.youtube.com/watch?v=N8YWq359Wus)
 - [Twitch - Building a GitHub Actions Presentation and doing some troubleshooting](https://www.youtube.com/watch?v=YqQsu5a81xY)
-- [GitHub Enterprise Importer - Part 2 - Migrating Multiple Repositories](https://www.youtube.com/watch?v=DTMnlWXnPes)
-- [GitHub Enterprise Importer - Part 1 - Overview](https://www.youtube.com/watch?v=nM0WLbZAGos)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
