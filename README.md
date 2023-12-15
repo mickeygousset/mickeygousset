@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [I’m starting to plan for 2024 and would love to hear how y’all are gonna do it](https://www.youtube.com/watch?v=RrYdjH5RglY)
 - [Day 2 in the #github #migration series is live. Let’s see what all the animals think…](https://www.youtube.com/watch?v=8k5Gd72PkCA)
 - [GitHub Migration Series - Day 2 - git clone/mirror/push](https://www.youtube.com/watch?v=xZyeAWawyVk)
 - [Day 1 in the #GitHub #Migration Series is here! Come see what Todd, the big cat, thinks… #devops](https://www.youtube.com/watch?v=psuTL5rEG1g)
 - [GitHub Migration Series - Day 1 - Overview](https://www.youtube.com/watch?v=FkZX3JxVyxs)
-- [New video series: Migrating to GitHub, is coming soon!  #coding #tech #github #migration #devops](https://www.youtube.com/watch?v=WLi84lbujoY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
