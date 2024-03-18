@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Integrate Jira Data Center with GitHub Enterprise Cloud](https://www.youtube.com/watch?v=aOQlwNCnMo4)
 - [DevOps Bytes - Custom views with GitHub Projects](https://www.youtube.com/watch?v=28Hr5zxsPl8)
 - [DevOps Bytes - Create a priority field with GitHub Projects](https://www.youtube.com/watch?v=ZzXsmsfdJKM)
 - [DevOps Bytes - Using the iteration field with GitHub Projects](https://www.youtube.com/watch?v=iFrJs8abTWg)
 - [GitHub Migration Series - Day 6 - Migrate multiple repos from GHEC to EMU](https://www.youtube.com/watch?v=T49CNhqLwbs)
-- [GitHub Migration Series - Day 5 - Migrate a single repository from GHEC to EMU](https://www.youtube.com/watch?v=8tJbJcw2lu8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
