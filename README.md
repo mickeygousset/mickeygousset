@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [5 Tips for Reviewing a GitHub Pull Request](https://www.youtube.com/watch?v=nP9Y72HQNaA)
 - [Azure Pipelines / GitHub integration using OAuth. New video is live! #github #azuredevops](https://www.youtube.com/watch?v=j9JknR9Rtb4)
 - [Integrate GitHub with Azure Pipelines - Part 1: OAuth](https://www.youtube.com/watch?v=LbCuX_tn_rM)
 - [Update on GitHub/Azure Pipelines series and check out my new tech toy](https://www.youtube.com/watch?v=Tm2sgZnDw5w)
 - [Secure your software projects using Stacklok&#39;s Minder Cloud](https://www.youtube.com/watch?v=tmXL4XrVA34)
-- [Integrate Jira Data Center with GitHub Enterprise Cloud](https://www.youtube.com/watch?v=aOQlwNCnMo4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
