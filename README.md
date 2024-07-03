@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Copilot Pull Request Summaries](https://www.youtube.com/watch?v=BVX074EMnds)
 - [New videos on #github #githubpullrequest on my main channel. Oh and watch my #dog Ollie play ball](https://www.youtube.com/watch?v=w70fWCNekHA)
 - [GitHub Draft Pull Request Essentials](https://www.youtube.com/watch?v=r_Oy3DPLWHU)
 - [5 Tips for Reviewing a GitHub Pull Request](https://www.youtube.com/watch?v=nP9Y72HQNaA)
 - [Azure Pipelines / GitHub integration using OAuth. New video is live! #github #azuredevops](https://www.youtube.com/watch?v=j9JknR9Rtb4)
-- [Integrate GitHub with Azure Pipelines - Part 1: OAuth](https://www.youtube.com/watch?v=LbCuX_tn_rM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
