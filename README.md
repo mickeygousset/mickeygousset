@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Create Custom Patterns for GitHub Secret Scanning #github #secrets #scanning #ghas #githubtutorial](https://www.youtube.com/watch?v=CWS_1hhgtxE)
 - [Is that secret a valid secret? #github #secret #scanning #githubtutorial](https://www.youtube.com/watch?v=lddJw4hRkHU)
 - [GitHub Secret Scanning - Scanning for non-provider patterns #github #githubtutorial #ghas #secrets](https://www.youtube.com/watch?v=VcEGUG_-9SM)
 - [Enable push protection for #github #secret #scanning](https://www.youtube.com/watch?v=-QaVejWhOUQ)
 - [How to enable #GitHub #secret #scanning  #education #githublearning #githubtutorial](https://www.youtube.com/watch?v=peQKBtpY-6k)
-- [Switch accounts easily in GitHub  #shorts #github #education #ghec #emu](https://www.youtube.com/watch?v=Sznxc2d5UJk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
