@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Check how push protection is doing by looking at the metrics #github #ghas #pushprotection](https://www.youtube.com/watch?v=WCK8JyEWWdo)
 - [Create Custom Patterns for GitHub Secret Scanning #github #secrets #scanning #ghas #githubtutorial](https://www.youtube.com/watch?v=CWS_1hhgtxE)
 - [Is that secret a valid secret? #github #secret #scanning #githubtutorial](https://www.youtube.com/watch?v=lddJw4hRkHU)
 - [GitHub Secret Scanning - Scanning for non-provider patterns #github #githubtutorial #ghas #secrets](https://www.youtube.com/watch?v=VcEGUG_-9SM)
 - [Enable push protection for #github #secret #scanning](https://www.youtube.com/watch?v=-QaVejWhOUQ)
-- [How to enable #GitHub #secret #scanning  #education #githublearning #githubtutorial](https://www.youtube.com/watch?v=peQKBtpY-6k)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
