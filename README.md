@@ -33,6 +33,7 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [CodeQL detected code written in Python but could not process any of it](/posts/codeql-detected-code-written-in-python-but-could-not-process-any-of-it/)
 - [Configuring Integration between Jira Data Center and GitHub Enterprise Cloud](/posts/configuring-dvcs-with-jira-datacenter-and-github/)
 <!-- BLOG-POST-LIST:END -->
 
