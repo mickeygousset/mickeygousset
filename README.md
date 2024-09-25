@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [CodeQL Error: CodeQL detects code but could not process it](https://www.youtube.com/watch?v=GWFc0_7cYFc)
 - [How many GitHub Organizations do you really need? #github #configuration #orgs #organization #setup](https://www.youtube.com/watch?v=JnFqgLiR7qI)
 - [Intro to repository rulesets. Use these instead of branch protection rules. #github #security](https://www.youtube.com/watch?v=p7kQO-8ycss)
 - [Check how push protection is doing by looking at the metrics #github #ghas #pushprotection](https://www.youtube.com/watch?v=WCK8JyEWWdo)
 - [Create Custom Patterns for GitHub Secret Scanning #github #secrets #scanning #ghas #githubtutorial](https://www.youtube.com/watch?v=CWS_1hhgtxE)
-- [Is that secret a valid secret? #github #secret #scanning #githubtutorial](https://www.youtube.com/watch?v=lddJw4hRkHU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
