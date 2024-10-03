@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Issue Types &lpar;opt-in beta&rpar;](https://www.youtube.com/watch?v=2wVmcuCC1is)
 - [Issue Hierarchy with Sub-issues &lpar;opt-in beta&rpar;](https://www.youtube.com/watch?v=F42FN6cZmA4)
 - [CodeQL Error: CodeQL detects code but could not process it](https://www.youtube.com/watch?v=GWFc0_7cYFc)
 - [How many GitHub Organizations do you really need? #github #configuration #orgs #organization #setup](https://www.youtube.com/watch?v=JnFqgLiR7qI)
 - [Intro to repository rulesets. Use these instead of branch protection rules. #github #security](https://www.youtube.com/watch?v=p7kQO-8ycss)
-- [Check how push protection is doing by looking at the metrics #github #ghas #pushprotection](https://www.youtube.com/watch?v=WCK8JyEWWdo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
