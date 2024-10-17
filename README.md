@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [New video on #youtube about reclaiming mannequin users after migrating to #github. #gei #migration](https://www.youtube.com/watch?v=YOarSNEmxac)
 - [Migrating to GitHub? Don&#39;t forget to reclaim those mannequin users!](https://www.youtube.com/watch?v=FuNxUjrMFSU)
 - [How should you structure your GitHub Organizations?](https://www.youtube.com/watch?v=kpJWWIauuAU)
 - [Issue Types &lpar;opt-in beta&rpar;](https://www.youtube.com/watch?v=2wVmcuCC1is)
 - [Issue Hierarchy with Sub-issues &lpar;opt-in beta&rpar;](https://www.youtube.com/watch?v=F42FN6cZmA4)
-- [CodeQL Error: CodeQL detects code but could not process it](https://www.youtube.com/watch?v=GWFc0_7cYFc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
