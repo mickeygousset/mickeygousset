@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Quick update as I work on some content for @GitHub #Universe.](https://www.youtube.com/watch?v=-D6Dj-bHDoA)
 - [Just a short update as I prep for #GitHub #Universe.  Are you going to be there?](https://www.youtube.com/watch?v=QPrFEulEB3A)
 - [New video on #youtube about reclaiming mannequin users after migrating to #github. #gei #migration](https://www.youtube.com/watch?v=YOarSNEmxac)
 - [Migrating to GitHub? Don&#39;t forget to reclaim those mannequin users!](https://www.youtube.com/watch?v=FuNxUjrMFSU)
 - [How should you structure your GitHub Organizations?](https://www.youtube.com/watch?v=kpJWWIauuAU)
-- [Issue Types &lpar;opt-in beta&rpar;](https://www.youtube.com/watch?v=2wVmcuCC1is)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
