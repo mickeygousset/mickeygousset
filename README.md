@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Part 3 - The GitHub Context Object and Variables has dropped! It’s the latest in my Intro to Actions](https://www.youtube.com/watch?v=v78G1f7nsRs)
+- [Introduction to GitHub Actions - Part 3 - The GitHub Context Object and Variables](https://www.youtube.com/watch?v=nNItXK3xd2s)
+- [Ollie and Abbie are keeping me company as I get started on part 3 of my @GitHub #actions series](https://www.youtube.com/watch?v=V1UPGt-XR9c)
 - [Part 2 of Intro to GitHub Actions video series is live! Let me know what you think. #githubactions](https://www.youtube.com/watch?v=Vynl4DjMFew)
 - [Introduction to GitHub Actions - Part 2 - Chaining Jobs Together In A Workflow](https://www.youtube.com/watch?v=4A1g8tyKPi4)
-- [Part 2 of my #GitHub #Actions intro videos drops tonight all about chaining together jobs.](https://www.youtube.com/watch?v=h7e8NTT6cZc)
-- [Ok, the first video in my new Introduction to #githubactions series is up. Go check it out.](https://www.youtube.com/watch?v=wq1zG6kHk20)
-- [Introduction to GitHub Actions - Part 1 - Your First GitHub Actions Workflow](https://www.youtube.com/watch?v=ljINpvCvHnQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
