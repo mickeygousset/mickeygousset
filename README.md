@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Introduction to GitHub Actions - Part 4 - The GitHub Marketplace](https://www.youtube.com/watch?v=JYOGmLzMbpM)
 - [Part 3 - The GitHub Context Object and Variables has dropped! It’s the latest in my Intro to Actions](https://www.youtube.com/watch?v=v78G1f7nsRs)
 - [Introduction to GitHub Actions - Part 3 - The GitHub Context Object and Variables](https://www.youtube.com/watch?v=nNItXK3xd2s)
 - [Ollie and Abbie are keeping me company as I get started on part 3 of my @GitHub #actions series](https://www.youtube.com/watch?v=V1UPGt-XR9c)
 - [Part 2 of Intro to GitHub Actions video series is live! Let me know what you think. #githubactions](https://www.youtube.com/watch?v=Vynl4DjMFew)
-- [Introduction to GitHub Actions - Part 2 - Chaining Jobs Together In A Workflow](https://www.youtube.com/watch?v=4A1g8tyKPi4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
