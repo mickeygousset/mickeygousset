@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Introduction to GitHub Actions - Part 7 - Deploy Your App Using GitHub Actions](https://www.youtube.com/watch?v=_NPY3wGHnK4)
 - [Introduction to GitHub Actions - Part 6 - Repository Rulesets](https://www.youtube.com/watch?v=ZTbM-h9RZOo)
 - [New #actions video is up. Real world example running against a PR. Check it out!](https://www.youtube.com/watch?v=uhcfuHD_1FE)
 - [Introduction to GitHub Actions - Part 5 - Run A Workflow Against A Pull Request](https://www.youtube.com/watch?v=ClLKbB_59Ec)
 - [Introduction to GitHub Actions - Part 4 - The GitHub Marketplace](https://www.youtube.com/watch?v=JYOGmLzMbpM)
-- [Part 3 - The GitHub Context Object and Variables has dropped! It’s the latest in my Intro to Actions](https://www.youtube.com/watch?v=v78G1f7nsRs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
