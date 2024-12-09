@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [New video on building your first custom action. also, any interest in doing a live to ask questions?](https://www.youtube.com/watch?v=03_DfOpoZTo)
+- [Create Your First Custom GitHub Action](https://www.youtube.com/watch?v=zQdEsIBbVjE)
 - [Introduction to GitHub Actions - Part 7 - Deploy Your App Using GitHub Actions](https://www.youtube.com/watch?v=_NPY3wGHnK4)
 - [Introduction to GitHub Actions - Part 6 - Repository Rulesets](https://www.youtube.com/watch?v=ZTbM-h9RZOo)
 - [New #actions video is up. Real world example running against a PR. Check it out!](https://www.youtube.com/watch?v=uhcfuHD_1FE)
-- [Introduction to GitHub Actions - Part 5 - Run A Workflow Against A Pull Request](https://www.youtube.com/watch?v=ClLKbB_59Ec)
-- [Introduction to GitHub Actions - Part 4 - The GitHub Marketplace](https://www.youtube.com/watch?v=JYOGmLzMbpM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
