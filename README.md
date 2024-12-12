@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [GitHub Actions - Trigger on a Custom Event](https://www.youtube.com/watch?v=TmuqKFdh6kw)
 - [GitHub Actions - Is Concurrency Important](https://www.youtube.com/watch?v=JhBCHRtKcik)
 - [Create Your First Reusable Workflow](https://www.youtube.com/watch?v=gDBZGCGSs6E)
 - [New video on building your first custom action. also, any interest in doing a live to ask questions?](https://www.youtube.com/watch?v=03_DfOpoZTo)
 - [Create Your First Custom GitHub Action](https://www.youtube.com/watch?v=zQdEsIBbVjE)
-- [Introduction to GitHub Actions - Part 7 - Deploy Your App Using GitHub Actions](https://www.youtube.com/watch?v=_NPY3wGHnK4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
