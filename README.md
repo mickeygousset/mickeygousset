@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Using Copilot Autofix with Pull Requests](https://www.youtube.com/watch?v=BJLFlIFy9aM)
 - [Unlock the Power of GitHub Copilot Autofix: Fix Security Alerts in Minutes!](https://www.youtube.com/watch?v=jNLASUQIJAs)
 - [GitHub Actions - Masking Variables and Secrets](https://www.youtube.com/watch?v=p7aOmRJ0qcY)
 - [Mickey Gousset Live Stream](https://www.youtube.com/watch?v=nraLnROdc30)
 - [GitHub Actions - Trigger on a Custom Event](https://www.youtube.com/watch?v=TmuqKFdh6kw)
-- [GitHub Actions - Is Concurrency Important](https://www.youtube.com/watch?v=JhBCHRtKcik)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
