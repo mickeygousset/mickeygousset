@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [GitHub Actions - Trigger on a new git tag](https://www.youtube.com/watch?v=g0KtieCywX4)
 - [Debugging GitHub Action Workflows with GitHub Copilot](https://www.youtube.com/watch?v=G-nwRnITh1c)
 - [Using Copilot Autofix with Pull Requests](https://www.youtube.com/watch?v=BJLFlIFy9aM)
 - [Unlock the Power of GitHub Copilot Autofix: Fix Security Alerts in Minutes!](https://www.youtube.com/watch?v=jNLASUQIJAs)
 - [GitHub Actions - Masking Variables and Secrets](https://www.youtube.com/watch?v=p7aOmRJ0qcY)
-- [Mickey Gousset Live Stream](https://www.youtube.com/watch?v=nraLnROdc30)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
