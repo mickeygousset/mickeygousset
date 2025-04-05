@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [I’m playing around figuring out YouTube Live. Thinking of doing a live tomorrow night...](https://www.youtube.com/watch?v=QpymXSk4WIA)
+- [Don’t miss out on the new #secret risk assessment. It’s free!](https://www.youtube.com/watch?v=DxAIQXIH1oU)
+- [Take Your Free Secret Risk Assessment Now!](https://www.youtube.com/watch?v=LS6JlJOD--w)
 - [GitHub Actions - Trigger on a new git tag](https://www.youtube.com/watch?v=g0KtieCywX4)
 - [Debugging GitHub Action Workflows with GitHub Copilot](https://www.youtube.com/watch?v=G-nwRnITh1c)
-- [Using Copilot Autofix with Pull Requests](https://www.youtube.com/watch?v=BJLFlIFy9aM)
-- [Unlock the Power of GitHub Copilot Autofix: Fix Security Alerts in Minutes!](https://www.youtube.com/watch?v=jNLASUQIJAs)
-- [GitHub Actions - Masking Variables and Secrets](https://www.youtube.com/watch?v=p7aOmRJ0qcY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
