@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Live with Mickey - Come Ask Me Your Questions](https://www.youtube.com/watch?v=ACcgn8Xy9A8)
+- [Mickey Gousset Live Stream](https://www.youtube.com/watch?v=NdBe6mY7TPE)
+- [I’m thinking of doing some docker and Kubernetes content. Any interest?](https://www.youtube.com/watch?v=Jv6iM4V6_0g)
 - [I’m playing around figuring out YouTube Live. Thinking of doing a live tomorrow night...](https://www.youtube.com/watch?v=QpymXSk4WIA)
 - [Don’t miss out on the new #secret risk assessment. It’s free!](https://www.youtube.com/watch?v=DxAIQXIH1oU)
-- [Take Your Free Secret Risk Assessment Now!](https://www.youtube.com/watch?v=LS6JlJOD--w)
-- [GitHub Actions - Trigger on a new git tag](https://www.youtube.com/watch?v=g0KtieCywX4)
-- [Debugging GitHub Action Workflows with GitHub Copilot](https://www.youtube.com/watch?v=G-nwRnITh1c)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
