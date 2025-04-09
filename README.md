@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Live with Mickey - Let&#39;s Talk GitHub Actions and GitHub Releases](https://www.youtube.com/watch?v=ACcgn8Xy9A8)
+- [That’s a wrap on my first #YouTube #Live. Watch the recording and let me know what you think.](https://www.youtube.com/watch?v=VQdtx5Z46yI)
+- [I’m going live in about 2 hours! First time! Come talk #GitHub, #DevOps, or anything you want!](https://www.youtube.com/watch?v=5wZ0ZnQl_ps)
 - [I’ve scheduled the #live for tomorrow night! Come join me and ask me questions!](https://www.youtube.com/watch?v=MyCPpuRj-bY)
-- [Live with Mickey - Come Ask Me Your Questions](https://www.youtube.com/watch?v=ACcgn8Xy9A8)
 - [Mickey Gousset Live Stream](https://www.youtube.com/watch?v=NdBe6mY7TPE)
-- [I’m thinking of doing some docker and Kubernetes content. Any interest?](https://www.youtube.com/watch?v=Jv6iM4V6_0g)
-- [I’m playing around figuring out YouTube Live. Thinking of doing a live tomorrow night...](https://www.youtube.com/watch?v=QpymXSk4WIA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
