@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Lunch with me, virtually, is happening tomorrow. Are you coming? #lunch #github](https://www.youtube.com/watch?v=Yzlnga0FU6Y)
 - [Come join me for lunch next Tuesday, virtually, and ask me your #GitHub questions. See you there!](https://www.youtube.com/watch?v=JXON2gwTwWk)
 - [Lunch &amp; Learn with Mickey - Tuesday, April 15th, 2025](https://www.youtube.com/watch?v=6qRmVttqQu0)
 - [Live with Mickey - Let&#39;s Talk GitHub Actions and GitHub Releases](https://www.youtube.com/watch?v=ACcgn8Xy9A8)
 - [That’s a wrap on my first #YouTube #Live. Watch the recording and let me know what you think.](https://www.youtube.com/watch?v=VQdtx5Z46yI)
-- [I’m going live in about 2 hours! First time! Come talk #GitHub, #DevOps, or anything you want!](https://www.youtube.com/watch?v=5wZ0ZnQl_ps)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
