@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Mastering Matrix Jobs in GitHub Actions](https://www.youtube.com/watch?v=Ijz_6vPa8RI)
 - [New video out on errors with the actions/checkout action #github #githubactions](https://www.youtube.com/watch?v=2hjg2UF0Wbs)
 - [The actions/checkout action fails with two possible error messages](https://www.youtube.com/watch?v=ZZxhzr3GGlY)
 - [Lunch &amp; Learn with Mickey - Tuesday, April 15th, 2025](https://www.youtube.com/watch?v=6qRmVttqQu0)
 - [I just posted a new video on using Dependabot to update your #githubactions Workflows. #cicd](https://www.youtube.com/watch?v=c7qCvj3VpU0)
-- [Use Dependabot Version Updates to Update Your GitHub Actions](https://www.youtube.com/watch?v=hY95AAKOVTw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
