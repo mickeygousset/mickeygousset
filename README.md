@@ -22,7 +22,7 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 - [Mickey Gousset Live Stream](https://www.youtube.com/watch?v=GEibVzcD72s)
 - [Azure DevOps with GitHub Repositories – Your path to Agentic AI](https://www.youtube.com/watch?v=uGFwiMY16hg)
 - [Mastering Matrix Jobs in GitHub Actions](https://www.youtube.com/watch?v=Ijz_6vPa8RI)
-- [New video out on errors with the actions/checkout action #github #githubactions](https://www.youtube.com/watch?v=2hjg2UF0Wbs)
+- [New video out on errors with the actions/checkout action #github #githubactions](https://www.youtube.com/shorts/2hjg2UF0Wbs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
