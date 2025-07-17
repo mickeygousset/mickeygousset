@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Look how easy it is to enable #github secret protection! #ghas #secret #devops #security](https://www.youtube.com/shorts/hSuYShoDUHQ)
 - [GitHub Advanced Security - Security Dashboard  Teaser #programming #github #ghas #security](https://www.youtube.com/shorts/QkLVXOLAlr0)
 - [GitHub Code Scanning - Deep Dive](https://www.youtube.com/watch?v=9pKW2R-rYHY)
 - [GitHub Secret Scanning - Deep Dive](https://www.youtube.com/watch?v=8n5Kikl14fE)
 - [Introduction to GitHub Advanced Security &lpar;GHAS&rpar;](https://www.youtube.com/watch?v=mtxlvWYjIxc)
-- [Integrate Azure Pipelines with GitHub](https://www.youtube.com/watch?v=ketf7S-u4pE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
