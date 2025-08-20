@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Debug your GitHub Actions Workflows #github #actions #githubactions #programming #devops](https://www.youtube.com/shorts/J9B5pY42hzo)
+- [GitHub Actions Policy Update: Blocking &amp; SHA Pinning Explained!](https://www.youtube.com/watch?v=4dnniFk5i2Q)
 - [Enforce SHA pinning for GitHub Actions #github #actions #githubactions #programming #automation](https://www.youtube.com/shorts/wkSGcjmn1RU)
 - [NEW! Block Risky GitHub Actions with Policy Controls #github #actions #programming  #coding](https://www.youtube.com/shorts/dLSCVvAhtHM)
 - [Look how easy it is to enable #github secret protection! #ghas #secret #devops #security](https://www.youtube.com/shorts/hSuYShoDUHQ)
-- [GitHub Advanced Security - Security Dashboard  Teaser #programming #github #ghas #security](https://www.youtube.com/shorts/QkLVXOLAlr0)
-- [GitHub Code Scanning - Deep Dive](https://www.youtube.com/watch?v=9pKW2R-rYHY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
