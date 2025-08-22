@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Run Workflows using the GitHub CLI #github #cli #gh #githubcli #actions #github actions #devops](https://www.youtube.com/shorts/xlf82T2z5Uo)
 - [List Workflows Using The Github CLI #github #cli #gh #githubactions #actions #devops  #programming](https://www.youtube.com/shorts/2FEW3CUYk3A)
 - [Debug your GitHub Actions Workflows #github #actions #githubactions #programming #devops](https://www.youtube.com/shorts/J9B5pY42hzo)
 - [GitHub Actions Policy Update: Blocking &amp; SHA Pinning Explained!](https://www.youtube.com/watch?v=4dnniFk5i2Q)
 - [Enforce SHA pinning for GitHub Actions #github #actions #githubactions #programming #automation](https://www.youtube.com/shorts/wkSGcjmn1RU)
-- [NEW! Block Risky GitHub Actions with Policy Controls #github #actions #programming  #coding](https://www.youtube.com/shorts/dLSCVvAhtHM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
