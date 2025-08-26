@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Disable Workflows using the GitHub CLI #github #cli #githubcli #githubactions #devops #actions](https://www.youtube.com/shorts/cQzqRkvnHGw)
 - [Enable Workflows using the GitHub CLI #github #cli #githubactions #devops #actions](https://www.youtube.com/shorts/863MvS3_dRk)
 - [View Job Logs using the GitHub CLI #github #cli #githubcli #githubactions #devops #actions](https://www.youtube.com/shorts/SQG00uJpkg8)
 - [View Workflow Runs using the GitHub CLI #github #cli #githubcli #actions #githubactions  #devops](https://www.youtube.com/shorts/_sbtw8sbVew)
 - [Run Workflows using the GitHub CLI #github #cli #gh #githubcli #actions #github actions #devops](https://www.youtube.com/shorts/xlf82T2z5Uo)
-- [List Workflows Using The Github CLI #github #cli #gh #githubactions #actions #devops  #programming](https://www.youtube.com/shorts/2FEW3CUYk3A)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
