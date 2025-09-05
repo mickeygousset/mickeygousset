@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Watch a GitHub Actions Workflow run in your CLI #github #cli #githubcli #githubactions #actions](https://www.youtube.com/shorts/0G1XoIQCA_c)
 - [Cancel a  Workflow Run using the GitHub CLI #github #cli #githubcli #githubactions #actions](https://www.youtube.com/shorts/WQtOaZwVEaM)
 - [Re-run Workflows with Debugging using the GitHub CLI #github #cli #githubcli #githubactions #actions](https://www.youtube.com/shorts/2coQscV80Ew)
 - [Re-run GitHub Workflows using the CLI #github #cli #githubcli #githubactions #devops #actions](https://www.youtube.com/shorts/secUKhVcnZY)
 - [GitHub Secret Scanning: Configure Your Push Protection Patterns](https://www.youtube.com/watch?v=RJCVRSqmrVU)
-- [Disable Workflows using the GitHub CLI #github #cli #githubcli #githubactions #devops #actions](https://www.youtube.com/shorts/cQzqRkvnHGw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
