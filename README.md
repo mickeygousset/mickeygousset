@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [GitHub Actions YAML Anchors: Stop Repeating Yourself in Workflows](https://www.youtube.com/watch?v=O2pbImAy00E)
 - [Delete GitHub Actions variables using the GitHub CLI #github #cli #githubcli #githubactions #actions](https://www.youtube.com/shorts/mJWI-tAow_o)
 - [Get a GitHub Actions variable using the GitHub CLI #github #cli #githubcli #githubactions #actions](https://www.youtube.com/shorts/ulTc9H6NQNQ)
 - [Set a GitHub Actions variable using the GitHub CLI #github #cli #githubcli #githubactions #actions](https://www.youtube.com/shorts/98jqZt5ZkTc)
 - [List your GitHub Actions variables using the GitHub CLI #github #cli #githubcli #githubactions](https://www.youtube.com/shorts/gJUjZN-Aktk)
-- [Delete your Actions cache using the GitHub CLI #github #cli #githubcli #githubactions #actions](https://www.youtube.com/shorts/ztnM0L7MrcA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
