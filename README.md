@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [GitHub Copilot 101 Tutorial – Setup &amp; First Steps in VS Code &lpar;C# Example&rpar;](https://www.youtube.com/watch?v=Sj7CMJPwJd0)
 - [From CODEOWNERS to Governance: Required Reviews by Team in GitHub](https://www.youtube.com/watch?v=BBj5CrJBhaI)
 - [Goodbye BitBucket, Hello GitHub - The Migration Story](https://www.youtube.com/watch?v=3AyErqDFS_0)
 - [GitHub Actions YAML Anchors: Stop Repeating Yourself in Workflows](https://www.youtube.com/watch?v=O2pbImAy00E)
 - [Delete GitHub Actions variables using the GitHub CLI #github #cli #githubcli #githubactions #actions](https://www.youtube.com/shorts/mJWI-tAow_o)
-- [Get a GitHub Actions variable using the GitHub CLI #github #cli #githubcli #githubactions #actions](https://www.youtube.com/shorts/ulTc9H6NQNQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
