@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Stale GitHub access is a silent security risk. Clean it up. #GitHub #Security #DevOps](https://www.youtube.com/shorts/1a4W2zsSCWA)
+- [Stop Pretending AI Is a Tech Problem—Here&#39;s How GitHub Actually Scaled Adoption](https://www.youtube.com/watch?v=cwYHUX7-jC8)
 - [Flaky GitHub Actions runners? It’s usually design, not luck. #GitHubActions #DevOps #CI](https://www.youtube.com/shorts/feGUOKQbzGs)
 - [Speed up GitHub Actions with smart caching. #GitHub #CI #DevOps #GitHubActions](https://www.youtube.com/shorts/NYg1nXfyXJg)
 - [GH-100 GitHub Admin Exam Prep: Admin vs GitHub Support &lpar;What YOU Fix vs Escalate&rpar;](https://www.youtube.com/watch?v=dLFhl8I4JQg)
-- [Branch protection alone won’t scale. Rulesets are the future of GitHub governance.#GitHub #Security](https://www.youtube.com/shorts/gF_4AtjMpgQ)
-- [Copilot&#39;s value isn’t acceptance rate. Measure impact instead. #GitHubCopilot #DevOps #shorts](https://www.youtube.com/shorts/W5sgnHzjvZE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
