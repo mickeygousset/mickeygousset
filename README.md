@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Migrate an Entire GitHub Organization to EMU with GitHub Enterprise Importer &lpar;GHEC → EMU&rpar;](https://www.youtube.com/watch?v=IvNBgjjSDEc)
 - [GH-100 GitHub Admin Exam Prep: When to Contact GitHub Support #gh100 #github #certification #devops](https://www.youtube.com/shorts/5lLtrEBVGko)
 - [GH-100 GitHub Admin Exam Prep: Problems Admins Should Fix &lpar;Not Support&rpar; #gh100 #github #admin](https://www.youtube.com/shorts/cFOrJfzrbSQ)
 - [GH-100 GitHub Admin Exam Prep: Admin vs GitHub Support Responsibilities #gh100 #github #admin](https://www.youtube.com/shorts/DYKX45Z2vLg)
 - [Stale GitHub access is a silent security risk. Clean it up. #GitHub #Security #DevOps](https://www.youtube.com/shorts/1a4W2zsSCWA)
-- [Stop Pretending AI Is a Tech Problem—Here&#39;s How GitHub Actually Scaled Adoption](https://www.youtube.com/watch?v=cwYHUX7-jC8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
