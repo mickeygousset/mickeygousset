@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [GitHub Copilot Custom Agents | Orchestrate Development with a Pirate Crew of AI Agents](https://www.youtube.com/watch?v=JqPI-D2LuYg)
 - [Jira Ticket ➡️ GitHub Pull Request &lpar;Automatically!&rpar; with Custom Copilot Agents and Agentic Workflows](https://www.youtube.com/watch?v=kaIz0X_YByE)
 - [Build Your First Custom GitHub Copilot Agent](https://www.youtube.com/watch?v=Qf2KZQrHlTI)
 - [Migrating GHAS Alerts with GitHub Enterprise Importer: What Works &lpar;and What Doesn’t&rpar;](https://www.youtube.com/watch?v=5y7YS272ebY)
 - [Migrate an Entire GitHub Organization to EMU with GitHub Enterprise Importer &lpar;GHEC → EMU&rpar;](https://www.youtube.com/watch?v=IvNBgjjSDEc)
-- [GH-100 GitHub Admin Exam Prep: When to Contact GitHub Support #gh100 #github #certification #devops](https://www.youtube.com/shorts/5lLtrEBVGko)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
