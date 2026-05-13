@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [The 3 AI DevOps Principles Every Team Needs](https://www.youtube.com/watch?v=FlvbuA_kaXs)
 - [Fix Merge Conflicts in 3 Clicks with GitHub Copilot](https://www.youtube.com/watch?v=NYxHs_JLqXw)
 - [Copilot Cloud Agent - Accessing Secrets and Variables](https://www.youtube.com/watch?v=RuTJZt1koFU)
 - [GitHub Copilot Custom Agents | Orchestrate Development with a Pirate Crew of AI Agents](https://www.youtube.com/watch?v=JqPI-D2LuYg)
 - [Jira Ticket ➡️ GitHub Pull Request &lpar;Automatically!&rpar; with Custom Copilot Agents and Agentic Workflows](https://www.youtube.com/watch?v=kaIz0X_YByE)
-- [Build Your First Custom GitHub Copilot Agent](https://www.youtube.com/watch?v=Qf2KZQrHlTI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
