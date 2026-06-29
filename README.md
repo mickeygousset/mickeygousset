@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Copilot Instructions: ZERO to HERO in 4 Levels](https://www.youtube.com/watch?v=VIifS-ZnlV0)
 - [The 5 Rules of Token Optimization Every Developer MUST Know &lpar; for GitHub Copilot&rpar;](https://www.youtube.com/watch?v=biTcvfmfikk)
 - [The 3 AI DevOps Principles Every Team Needs](https://www.youtube.com/watch?v=FlvbuA_kaXs)
 - [Fix Merge Conflicts in 3 Clicks with GitHub Copilot](https://www.youtube.com/watch?v=NYxHs_JLqXw)
 - [Copilot Cloud Agent - Accessing Secrets and Variables](https://www.youtube.com/watch?v=RuTJZt1koFU)
-- [GitHub Copilot Custom Agents | Orchestrate Development with a Pirate Crew of AI Agents](https://www.youtube.com/watch?v=JqPI-D2LuYg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
