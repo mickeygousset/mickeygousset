@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [A Green Check Does NOT Mean Your Code Works #githubactions #coding #github #shorts  #programming](https://www.youtube.com/shorts/lVBKCg6owVE)
+- [Your First GitHub Actions Workflow Is This Small #github #actions #devops #cicd #shorts](https://www.youtube.com/shorts/fbewzOfsBF0)
+- [Getting Started with GitHub Actions: Your First Green Check](https://www.youtube.com/watch?v=UaeAbpvBzc8)
 - [Introduction to GitHub Code Quality: Catch and Fix Issues Before You Mergeode quality final](https://www.youtube.com/watch?v=C4VZDtgNJMY)
 - [GitHub Just Made GitLab Migrations WAY Easier](https://www.youtube.com/watch?v=Bd-w4iOB2Os)
-- [Copilot Instructions: ZERO to HERO in 4 Levels](https://www.youtube.com/watch?v=VIifS-ZnlV0)
-- [The 5 Rules of Token Optimization Every Developer MUST Know &lpar; for GitHub Copilot&rpar;](https://www.youtube.com/watch?v=biTcvfmfikk)
-- [The 3 AI DevOps Principles Every Team Needs](https://www.youtube.com/watch?v=FlvbuA_kaXs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
