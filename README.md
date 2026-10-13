@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Getting Started with GitHub Actions: 5 Ways to Run a GitHub Actions Workflow](https://www.youtube.com/watch?v=8FfIl1COnIw)
 - [One folder decides whether GitHub finds your workflow. #githubactions  #YAML #shorts  #programming](https://www.youtube.com/shorts/OlvpF-mHQK8)
 - [Your workflow runs—but where are your files? #githubactions  #devops  #shorts  #programming  #coding](https://www.youtube.com/shorts/suD1B64XtAQ)
 - [GitHub Actions: run vs. uses. Two YAML keywords. Two different jobs. #githubactions  #YAML #Shorts](https://www.youtube.com/shorts/TuySnCJey9U)
 - [A Green Check Does NOT Mean Your Code Works #githubactions #coding #github #shorts  #programming](https://www.youtube.com/shorts/lVBKCg6owVE)
-- [Your First GitHub Actions Workflow Is This Small #github #actions #devops #cicd #shorts](https://www.youtube.com/shorts/fbewzOfsBF0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
