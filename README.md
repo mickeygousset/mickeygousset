@@ -18,11 +18,11 @@ Check out my organization, https://github.com/mickeygoussetorg, to see all my de
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Changed a file, but your workflow didn’t run? Check this. #GitHubActions #DevOps #Shorts #devops](https://www.youtube.com/shorts/kLm2CQXpeCU)
+- [Yeah it’s me talking again cause I ran out of time to make a video — oh Todd is here too #cats](https://www.youtube.com/shorts/0ZRtMUfsDPE)
 - [A quick update on me #cats #dogs #catsofyoutube #github #githubuniverse](https://www.youtube.com/shorts/ym4wbElNCsE)
 - [Getting Started with GitHub Actions: 5 Ways to Run a GitHub Actions Workflow](https://www.youtube.com/watch?v=8FfIl1COnIw)
 - [One folder decides whether GitHub finds your workflow. #githubactions  #YAML #shorts  #programming](https://www.youtube.com/shorts/OlvpF-mHQK8)
-- [Your workflow runs—but where are your files? #githubactions  #devops  #shorts  #programming  #coding](https://www.youtube.com/shorts/suD1B64XtAQ)
-- [GitHub Actions: run vs. uses. Two YAML keywords. Two different jobs. #githubactions  #YAML #Shorts](https://www.youtube.com/shorts/TuySnCJey9U)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
